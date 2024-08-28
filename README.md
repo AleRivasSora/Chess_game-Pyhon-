@@ -1,6 +1,7 @@
 # Chess Game
 
 **A simple chess game built with Python.**
+**Feel free to tested.**
 
 ## Description
 This repository contains a chess game implemented in Python. It provides a solid foundation for building a chess application, featuring:
@@ -31,7 +32,4 @@ python app.py
 python build_exe.py
 ```
 
-```bash
-**Feel free to tested.**
-```
 
