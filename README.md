@@ -30,5 +30,5 @@ python app.py
 ```bash
 python build_exe.py
 ```
-*Feel free to tested.*
+**Feel free to tested.**
 
