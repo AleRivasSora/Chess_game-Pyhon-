@@ -18,3 +18,17 @@ This repository contains a chess game implemented in Python. It provides a solid
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Start the game:
+
+```bash
+python app.py
+```
+### Make an executable (Optional)
+
+```bash
+python build_exe.py
+```
+*Feel free to tested.*
+
