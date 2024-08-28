@@ -1,6 +1,7 @@
 # Chess Game
 
 **A simple chess game built with Python.**
+
 **Feel free to tested.**
 
 ## Description
